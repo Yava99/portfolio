@@ -55532,7 +55532,7 @@ qO(() => {
 });
 var u7 = r7(c7, { applyAnimatedValues: pa }),
   f7 = u7.animated;
-const h7 = "/island-Te-uwlMA.glb",
+const h7 = "https://yava99.github.io/portfolio/assets/island-Te-uwlMA.glb",
   d7 = ({ isRotating: n, setIsRotating: e, setCurrentStage: t, ...i }) => {
     const r = W.useRef(),
       { gl: s, viewport: o } = Mb(),
